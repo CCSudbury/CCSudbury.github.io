@@ -1,0 +1,3 @@
+[submodule "GitTogether"]
+	path = GitTogether
+	url = https://github.com/CCSudbury/GitTogether.git
